@@ -25,8 +25,8 @@ body {
   background: #1d1d1d;
   transition: 2s ease;
   height: 16px;
-  margin: 2px;
   width: 16px;
+  margin: 2px;
 }
 
 .square:hover {
